@@ -240,11 +240,9 @@
 
 **GitHub Identifier**: [`kpawar2410`](https://github.com/kpawar2410)
 
-<!-- **Expertise Beyond Toolbox:** . -->
+**Expertise Beyond Toolbox:** Java, and Product Security.
 
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [She/her](https://www.mypronouns.org/she-her)
 
 # Robot: Roboose
 
